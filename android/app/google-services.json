@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703198613161",
+    "project_id": "communitycaht",
+    "storage_bucket": "communitycaht.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703198613161:android:de00a8d905ea79d494e3b8",
+        "android_client_info": {
+          "package_name": "com.example.communitychat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArBC5CU2pk119Vyc87MWqdkX2y2V2EzZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
